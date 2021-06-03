@@ -1,0 +1,1 @@
+Added db.php, content_style.css,db.php,deco.css,dispatch.php,header_style.css,logcall.php,nav.php,pessdb.sql,update.php, and added images folder.
